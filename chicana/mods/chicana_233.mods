@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Underwood</namePart>
+        <namePart type="given">Consuelo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>2000</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>linen, metallic threads, barbed wire</form>
+        <extent>58"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        
+   </subject>
+
+    
+    
+    
+</mods>

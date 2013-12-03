@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Amescua: Perseverance of the Chicano Spirit</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Amescua</namePart>
+        <namePart type="given">Michael</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Painted steel, ceramic</form>
+        <extent>71 1/2"" x 21 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Indigenous knowledge, world view</topic><topic>Music</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Earth, tierra, nature, ecology</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

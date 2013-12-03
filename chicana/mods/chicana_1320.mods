@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Yo Naturaleza</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Earth, tierra, nature, ecology</topic><topic>Body</topic><topic>Nude, naked, unclothed</topic><topic>Gender, masculinity, femininity</topic><topic>Portrait</topic><topic>Land</topic>
+   </subject>
+
+    
+    
+    
+</mods>

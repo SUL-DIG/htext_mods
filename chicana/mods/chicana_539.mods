@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Jesus Cervantez (Mi Dad)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cervantez</namePart>
+        <namePart type="given">Yreina D.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Colored pencil</form>
+        <extent>10"" x 6""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Father</topic><topic>Family</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    
+</mods>

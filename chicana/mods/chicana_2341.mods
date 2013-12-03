@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Images of Frida</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Arreguín</namePart>
+        <namePart type="given">Alfredo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>59"" x 46 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cultural icons, heroes, heroines</topic><topic>Frida Kahlo</topic><topic>Portrait</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

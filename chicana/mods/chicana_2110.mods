@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Sagrado Corazon</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor, pastel on fabriano paper</form>
+        <extent>22"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Heart, corazón</topic><topic>Religion, spirituality</topic><topic>Domestic space</topic><topic>Gender, masculinity, femininity</topic><topic>Body</topic>
+   </subject>
+
+    
+    
+    
+</mods>

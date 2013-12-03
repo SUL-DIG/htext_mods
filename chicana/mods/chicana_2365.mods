@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Pachuco: A Historical Update</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">José</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>31"" x 13""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Pachuco, pachuca, zoot suit</topic><topic>Language, text, wordplay</topic><topic>Urban imagery</topic><topic>Poster</topic><topic>RCAF</topic><topic>Calavera</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

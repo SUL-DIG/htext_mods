@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Plush Pony</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aguilar</namePart>
+        <namePart type="given">Laura</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Gelatin silver print</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Gender, masculinity, femininity</topic><topic>Queer, lesbian, gay, bisexual, transgender, transvestite</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Love, romantic love, revolutionary love</topic><topic>Body</topic>
+   </subject>
+
+    
+    
+    
+</mods>

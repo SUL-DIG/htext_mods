@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Gore Family*</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>ASCO performance</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Performance</topic><topic>Family</topic><topic>Violence</topic><topic>Film</topic><topic>Domestic space</topic>
+   </subject>
+
+    
+    
+    
+</mods>

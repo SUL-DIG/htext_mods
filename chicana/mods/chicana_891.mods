@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Dia de los Muertos I</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Peter</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>32"" x 24"" x 9""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religion, spirituality</topic><topic>La Muerte, death</topic><topic>Day of the Dead, Día de los Muertos</topic><topic>Calavera</topic><topic>Altar, altar installation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Reclaiming the Past</note>
+    
+</mods>

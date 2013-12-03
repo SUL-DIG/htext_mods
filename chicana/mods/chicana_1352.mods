@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Las Sirenas</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ybañez</namePart>
+        <namePart type="given">Terry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on linen</form>
+        <extent>15 1/2"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Children, childhood</topic><topic>Gender, masculinity, femininity</topic><topic>Sirenas</topic>
+   </subject>
+
+    
+    
+    
+</mods>

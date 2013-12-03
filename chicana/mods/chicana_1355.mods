@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Still Life de Naranga, Muneca y Flor</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ybañez</namePart>
+        <namePart type="given">Terry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on wood/ copper</form>
+        <extent>6"" x 13""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Still life</topic><topic>Domestic space</topic>
+   </subject>
+
+    
+    
+    
+</mods>

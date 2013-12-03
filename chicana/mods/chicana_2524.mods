@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Jesus in Shell</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aguilar</namePart>
+        <namePart type="given">Laura</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Gelatin silver print</form>
+        <extent>8"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cemetery</topic><topic>Religious iconography</topic><topic>Religion, spirituality</topic><topic>La Muerte, death</topic><topic>Humor</topic><topic>Public space</topic>
+   </subject>
+
+    
+    
+    
+</mods>

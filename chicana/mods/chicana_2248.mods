@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Mission Street Manifesto (Drawing for mural detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Aztec</topic><topic>Dance</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Indigenous knowledge, world view</topic><topic>Mural</topic><topic>Process</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

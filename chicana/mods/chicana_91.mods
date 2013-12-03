@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Boy working</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Children, childhood</topic><topic>Class, capitalism</topic><topic>Los Angeles</topic><topic>Urban imagery</topic><topic>Portrait</topic>
+   </subject>
+
+    
+    
+    <note type="location">East Los Angeles, California</note>
+</mods>

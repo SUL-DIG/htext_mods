@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Who Wants My Baby</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>cibacrome</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Sexism</topic><topic>Body</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Transformation</topic>
+   </subject>
+
+    
+    
+    <note type="location">Museum of Fine Arts of New Mexico</note>
+</mods>

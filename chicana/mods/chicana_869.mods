@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Lynn y Albert Morales</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bernal</namePart>
+        <namePart type="given">Louis Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Type C color print</form>
+        <extent>11"" x 14""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Couple</topic><topic>Portrait</topic><topic>Body</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

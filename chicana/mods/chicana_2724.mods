@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Virgen de San Juan de Los Lagos</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Lomas Garza</namePart>
+        <namePart type="given">Carmen</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Gouache</form>
+        <extent>12"" x 9""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Virgin</topic><topic>Religious iconography</topic><topic>Prayer</topic><topic>Children, childhood</topic><topic>Religion, spirituality</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Redefining American Art</note>
+    
+</mods>

@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Omecihuatl (detail of upper left)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor on fiberglass paper</form>
+        <extent>30"" x 22""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Virgen de Guadalupe</topic><topic>Refashioning cultural icons</topic><topic>Religion, spirituality</topic><topic>Violence</topic><topic>Colonialism</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

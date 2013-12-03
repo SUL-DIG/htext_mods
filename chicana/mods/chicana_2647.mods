@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Chile Shrine</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Peter</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>25"" x 14"" x 9 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Caja, box</topic><topic>Altar, altar installation</topic><topic>Popular art and culture</topic><topic>Folk</topic><topic>Hell</topic><topic>Religious iconography</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Suerte Street Tag</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1970</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>66"" x 48""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Calavera</topic><topic>Graffiti, aerosol art, placa</topic><topic>Urban imagery</topic>
+   </subject>
+
+    
+    
+    
+</mods>

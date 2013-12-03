@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Nuestra Sierra Madre  (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Monoprint, silkscreen ink, collage on kozo paper</form>
+        <extent>39 1/2"" x 26 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Gender, masculinity, femininity</topic><topic>Religion, spirituality</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

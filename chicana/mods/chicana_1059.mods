@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>No. 7- New York</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aguilar</namePart>
+        <namePart type="given">Laura</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Gelatin silver print</form>
+        <extent>8"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cemetery</topic><topic>La Muerte, death</topic>
+   </subject>
+
+    
+    
+    
+</mods>

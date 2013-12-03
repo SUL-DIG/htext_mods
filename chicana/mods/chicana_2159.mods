@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Ojo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Ball point pen on clay coated paper</form>
+        <extent>1/2"" diameter</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Vision</topic><topic>Miniature</topic><topic>Body</topic>
+   </subject>
+
+    
+    
+    
+</mods>

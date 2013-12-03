@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>El Milagro</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor collage</form>
+        <extent>38"" x 42""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Language, text, wordplay</topic><topic>Dichotomy, duality</topic><topic>Serpent</topic><topic>Colonialism</topic><topic>Body</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    
+    
+    
+</mods>

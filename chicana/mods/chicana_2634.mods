@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Come Play With Us (Childhood Memories)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Brito-Avellana</namePart>
+        <namePart type="given">María</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>mixed media</form>
+        <extent>80"" x 48"" x 53""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Altar, altar installation</topic><topic>Dream</topic><topic>Memory</topic><topic>Mirror</topic><topic>Children, childhood</topic><topic>Domestic space</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

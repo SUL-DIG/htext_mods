@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>South Central L.A.</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>67"" x 67"" x 3 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Los Angeles</topic><topic>Graffiti, aerosol art, placa</topic>
+   </subject>
+
+    
+    
+    
+</mods>

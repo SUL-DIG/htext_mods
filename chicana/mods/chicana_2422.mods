@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Culture, Brotherhood, and Pride</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Guerrero</namePart>
+        <namePart type="given">Zarco</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Cultural icons, heroes, heroines</topic><topic>Activism, protest, resistance, struggle</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Public art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Pirma and Third Streets, Phoenix, Califonia</note>
+</mods>

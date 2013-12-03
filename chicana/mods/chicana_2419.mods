@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Aspirations of the Races</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ríos</namePart>
+        <namePart type="given">Michael</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Activism, protest, resistance, struggle</topic><topic>Indigenous knowledge, world view</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Bryant Mini-Park, Mission District, San Francisco (not extant)</note>
+</mods>

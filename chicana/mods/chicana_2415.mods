@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Chicanismo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hinojosa</namePart>
+        <namePart type="given">Frank V.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Activism, protest, resistance, struggle</topic><topic>Public art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Auditorium, Northwest Rural Opportunities, Pasco, Washington</note>
+</mods>

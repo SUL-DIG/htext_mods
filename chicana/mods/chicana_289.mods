@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Detention Center</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1998</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silver gelatin</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Prison</topic><topic>Body</topic>
+   </subject>
+
+    
+    
+    
+</mods>

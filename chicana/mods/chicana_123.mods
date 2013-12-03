@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Old man in hat</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1972</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Elder</topic><topic>Gender, masculinity, femininity</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    
+    <note type="location">Los Angeles, California</note>
+</mods>

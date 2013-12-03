@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Mansión de Aves y Hadas</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">González Amizcua</namePart>
+        <namePart type="given">Consuelo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>18"" x 14 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Animals</topic><topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    
+    
+    
+</mods>

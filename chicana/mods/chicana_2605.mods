@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor</form>
+        <extent>16"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Earth, tierra, nature, ecology</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    
+    
+    
+</mods>

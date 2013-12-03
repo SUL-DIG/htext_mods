@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>From Pieces of Stardust</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>8' x 50'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Universe</topic><topic>Cosmology</topic><topic>Natural gas</topic><topic>Fuel</topic><topic>Earth, tierra, nature, ecology</topic><topic>Future</topic>
+   </subject>
+
+    
+    
+    <note type="location">Southern California Gas Company, Los Angeles, California</note>
+</mods>

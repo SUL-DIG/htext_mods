@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Coyota</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Serigraph</form>
+        <extent>22"" x 29""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Racial representation</topic><topic>Body</topic><topic>Frida Kahlo</topic><topic>Mestizaje, mestiza, mestizo</topic><topic>Land</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    
+    
+</mods>

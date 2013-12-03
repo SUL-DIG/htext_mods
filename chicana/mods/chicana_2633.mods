@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Beginning and the End</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Boza</namePart>
+        <namePart type="given">Juán</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>mixed media installation</form>
+        <extent>68"" x 21"" x 13 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Altar, altar installation</topic><topic>Religion, spirituality</topic><topic>Religious iconography</topic><topic>African</topic><topic>Ritual</topic><topic>Magic</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

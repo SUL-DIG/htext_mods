@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title> Eclipse : Guadalupe Series (Detail of middle section)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        <dateOther type="early">1978</dateOther>
+        <dateOther type="late">1979</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media color xerox collage</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>La Virgen de Guadalupe</topic><topic>Gender, masculinity, femininity</topic><topic>Athletics</topic><topic>Mother</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Refashioning cultural icons</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

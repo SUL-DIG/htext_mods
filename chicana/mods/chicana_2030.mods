@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Homage to Dolores del Rio</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pen on clay coated paper</form>
+        <extent>14"" x 8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Female role models</topic><topic>Leadership</topic><topic>Cultural icons, heroes, heroines</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    
+</mods>

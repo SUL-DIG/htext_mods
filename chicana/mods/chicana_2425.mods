@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Entelequia</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rosas</namePart>
+        <namePart type="given"> Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Children, childhood</topic><topic>Racial representation</topic><topic>Animals</topic><topic>Activism, protest, resistance, struggle</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Segundo barrio, El Paso, Texas</note>
+</mods>

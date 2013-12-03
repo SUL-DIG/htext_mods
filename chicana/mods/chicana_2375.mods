@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Man From Morelos</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Arreguín</namePart>
+        <namePart type="given">Alfredo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>58"" x 46"" x 2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cultural icons, heroes, heroines</topic><topic>Revolution</topic><topic>Campesino, campesina</topic><topic>History</topic><topic>Land</topic><topic>Zapata</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

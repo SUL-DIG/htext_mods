@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Tactical Police Force</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Jiménez</namePart>
+        <namePart type="given">Luís</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1969</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Fiberglass</form>
+        <extent>73"" x 11 1/2"" x 19 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Violence</topic><topic>Police</topic><topic>Civil liberties</topic><topic>Urban imagery</topic><topic>Activism, protest, resistance, struggle</topic><topic>Calavera</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Civil Liberties</note>
+    
+</mods>

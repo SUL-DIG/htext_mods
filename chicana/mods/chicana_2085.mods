@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Three Elements</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media with wool blanket, box of corn and beans, bag of peanuts</form>
+        <extent>6 1/2' x 4 1/2'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Altar, altar installation</topic><topic>Religion, spirituality</topic><topic>Land</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

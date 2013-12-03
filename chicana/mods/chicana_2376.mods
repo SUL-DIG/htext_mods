@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Aztlan</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Duardo</namePart>
+        <namePart type="given">Richard</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>25 1/4"" x 38""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Aztlan</topic><topic>Cultural icons, heroes, heroines</topic><topic>Language, text, wordplay</topic><topic>Nation, nationality</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

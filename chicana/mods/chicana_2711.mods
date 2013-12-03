@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Snow Queen</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Diane</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984 (reconstructed 1990)</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Paper fashion installation</form>
+        <extent>72"" x 48"" x 48""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Style, fashion, hair, make up, clothing</topic><topic>Class, capitalism</topic><topic>Gender, masculinity, femininity</topic><topic>Body art, body decoration, body modification, tattoo</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Redefining American Art</note>
+    
+</mods>

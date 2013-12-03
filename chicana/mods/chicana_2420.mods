@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Barrera</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Activism, protest, resistance, struggle</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Dvorak Park, Pilsen barrio, Chicago (not extant)</note>
+</mods>

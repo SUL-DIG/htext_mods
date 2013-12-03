@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Self-Portrait in Coffin Form</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>ball-point pen on paper and wood construction</form>
+        <extent>5 3/4"" x 5 1/2"" x 2 3/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Style, fashion, hair, make up, clothing</topic><topic>Calavera</topic><topic>Hair</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Body</topic><topic>Sexuality</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Feminist Visions</note>
+    
+</mods>

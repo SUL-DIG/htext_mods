@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Rest In Paint</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pen on clay coated paper</form>
+        <extent>14"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Art</topic><topic>Self-portrait</topic><topic>La Muerte, death</topic><topic>Calavera</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    
+    
+</mods>

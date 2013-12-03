@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>43rd Tag</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Graffiti, aerosol art, placa</topic><topic>Portrait</topic><topic>Public art</topic><topic>Urban imagery</topic>
+   </subject>
+
+    
+    
+    <note type="location">Arroyo Seco River, Los Angeles, CA</note>
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Downtown Los Angeles</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Valdéz</namePart>
+        <namePart type="given">Patssi</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1983</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Hand-colored photocollage</form>
+        <extent>80"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Los Angeles</topic><topic>Car, car culture, lowrider</topic><topic>Architecture</topic><topic>Punk</topic><topic>Urban imagery</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA): Redefining American Art</note>
+    
+</mods>

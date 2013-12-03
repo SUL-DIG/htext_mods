@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>El  Umbral / The Doorway</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988-1989</dateIssued>
+        <dateOther type="early">1988</dateOther>
+        <dateOther type="late">1989</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel on paper</form>
+        <extent>50"" x 40""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Transition</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    
+</mods>

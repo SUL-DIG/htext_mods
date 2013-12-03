@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Me Sobra / Living on the Edge (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1989</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>12"" x 12""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Portrait</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

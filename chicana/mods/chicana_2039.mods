@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Here Lies/ Hear Lies</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Ball point pen on clay coated paper</form>
+        <extent>11"" x 14""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Muerte, death</topic><topic>Calavera</topic><topic>Hair</topic><topic>Trenza</topic><topic>Coffin</topic>
+   </subject>
+
+    
+    
+    
+</mods>

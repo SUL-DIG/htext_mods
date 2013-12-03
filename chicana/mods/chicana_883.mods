@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Zoot Suit En Los Rockies</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Fresquez</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on wood</form>
+        <extent>67 1/2"" x 51 1/2"" x 3""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Pachuco, pachuca, zoot suit</topic><topic>Public space</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Gender, masculinity, femininity</topic><topic>Land</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

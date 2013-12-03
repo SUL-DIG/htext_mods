@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Earth Book</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on cement- mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Earth, tierra, nature, ecology</topic><topic>Education</topic><topic>Creation</topic>
+   </subject>
+
+    
+    
+    <note type="location">Skyline College</note>
+</mods>

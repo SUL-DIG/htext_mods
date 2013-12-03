@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Ave Maria Purisma (Page)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>10.75"" x 15"" x 5.5""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Religion, spirituality</topic><topic>Language, text, wordplay</topic><topic>Sexism</topic><topic>Body</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

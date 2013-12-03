@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Birth of the Jalapeño</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Trejo</namePart>
+        <namePart type="given">Rubén</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1980</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>10 1/2"" x 24"" x 13 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Chile</topic><topic>Humor</topic><topic>Popular art and culture</topic><topic>Stereotype</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

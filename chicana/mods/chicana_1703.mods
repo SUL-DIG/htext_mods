@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Intersection for the Arts (Front mural)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1995</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    
+    
+    <note type="location">Intersection for the Arts / San Francisco, California</note>
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>CASA Rally</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1974</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Activism, protest, resistance, struggle</topic><topic>Urban imagery</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Los Angeles</topic><topic>Public space</topic>
+   </subject>
+
+    
+    
+    <note type="location">East Los Angeles, California</note>
+</mods>

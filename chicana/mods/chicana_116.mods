@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Boy in hat with orange</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Children, childhood</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Public space</topic><topic>Graffiti, aerosol art, placa</topic>
+   </subject>
+
+    
+    
+    <note type="location">East Los Angeles, California</note>
+</mods>

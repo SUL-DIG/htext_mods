@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Huerfano Portfolio: Beatrice Nogare</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Díaz Guerrero</namePart>
+        <namePart type="given">David</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1980</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        <extent>11"" x 14""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Domestic space</topic><topic>Popular art and culture</topic><topic>House, home</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

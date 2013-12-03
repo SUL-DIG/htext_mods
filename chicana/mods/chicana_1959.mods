@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Tempestad</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media triptych</form>
+        <extent>24"" x 52"" x 1 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Conceptual</topic><topic>Language, text, wordplay</topic><topic>Family</topic><topic>Religion, spirituality</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    
+</mods>

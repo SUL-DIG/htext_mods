@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Corazon Malito (Detail of center)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor</form>
+        <extent>22"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Heart, corazón</topic><topic>Cactus, maguey</topic><topic>Fear, grief, sadness</topic><topic>Body</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

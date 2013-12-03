@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Great Wall of Los Angeles (1950s section.)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981 (1976, 78, 80, 81, 83)</dateIssued>
+        <dateOther type="early">1976</dateOther>
+        <dateOther type="late">1983</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural - acrylic on cast concrete</form>
+        <extent>13' x 2400'</extent>
+   </physicalDescription>
+    <subject>
+        
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA)</note>
+    <note type="location">Tujunga Wash Drainage Canal, San Fernando Valley, California</note>
+</mods>

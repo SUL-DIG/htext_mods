@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Maestrapeace</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993-1994</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Textile</topic><topic>Gender, masculinity, femininity</topic><topic>Mural</topic>
+   </subject>
+
+    
+    
+    <note type="location">Women's Building/San Francisco, CA</note>
+</mods>

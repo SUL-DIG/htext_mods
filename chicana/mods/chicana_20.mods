@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Donít Not *</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Fotonovela performance</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Public art</topic><topic>Performance</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    
+    <note type="location">Galleria de la Raza, San Francisco, California</note>
+</mods>

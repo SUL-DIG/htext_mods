@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>The Nanny (Uniform detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1994</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Work, labor</topic><topic>Class, capitalism</topic><topic>Gender, masculinity, femininity</topic><topic>Altar, altar installation</topic><topic>Racial representation</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Three Eagles Fling</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aguilar</namePart>
+        <namePart type="given">Laura</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>GSP-Triptychs</form>
+        <extent>24"" x 60""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Nation, nationality</topic><topic>Dichotomy, duality</topic><topic>Sexuality</topic><topic>Colonialism</topic><topic>Self-portrait</topic>
+   </subject>
+
+    
+    
+    
+</mods>

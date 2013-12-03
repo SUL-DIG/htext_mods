@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Migra II</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Pedro</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on particle board</form>
+        <extent>32"" x 36""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Activism, protest, resistance, struggle</topic><topic>Immigration</topic><topic>Racism</topic><topic>Border</topic><topic>Violence</topic><topic>Police</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Civil Liberties</note>
+    
+</mods>

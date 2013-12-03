@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Front Porch</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vargas</namePart>
+        <namePart type="given">Kathy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        <extent>11"" x 14""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>House, home</topic><topic>Family</topic><topic>Domestic space</topic><topic>Class, capitalism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

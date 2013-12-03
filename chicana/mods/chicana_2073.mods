@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Corazon, Flecha, Estrellas (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Monoprint, watercolor , silkscreen ink on cedar paper</form>
+        <extent>39 1/2"" x 26 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Heart, corazón</topic><topic>War, peace</topic><topic>Colonialism</topic><topic>Indigenous knowledge, world view</topic><topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

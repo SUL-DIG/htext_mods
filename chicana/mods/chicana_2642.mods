@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Madre Dolorosa</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Emmanuel</namePart>
+        <namePart type="given">Cristina</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>45"" x 33""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Self-portrait</topic><topic>Heart, corazón</topic><topic>Empowerment</topic><topic>Virgin</topic><topic>Milagro</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

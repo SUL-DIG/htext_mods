@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Pocha Identity</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Monoprint, silkscreen ink on morla paper</form>
+        <extent>36"" x 26""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Racial representation</topic><topic>Mestizaje, mestiza, mestizo</topic><topic>Nation, nationality</topic><topic>Colonialism</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

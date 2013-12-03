@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Pasado, Presente, Futuro (Detail of right section)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Espinoza</namePart>
+        <namePart type="given">Carlota</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1977</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Byers Library, Denver, Colorado</note>
+</mods>

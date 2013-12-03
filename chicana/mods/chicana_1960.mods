@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Postales</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>installation- Painting, scrolls, street sign</form>
+        <extent>6' x 9'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Conceptual</topic><topic>Language, text, wordplay</topic><topic>Barrio</topic><topic>Class, capitalism</topic><topic>Children, childhood</topic><topic>Domestic space</topic>
+   </subject>
+
+    
+    
+    <note type="location">Tyler Museum of Art / Texas</note>
+</mods>

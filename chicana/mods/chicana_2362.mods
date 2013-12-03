@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Chicano Gothic</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Peña</namePart>
+        <namePart type="given">Amado M.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1974</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>18"" x 12""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Language, text, wordplay</topic><topic>Barrio</topic><topic>Brown Berets</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Emergence of the Chicano Social Struggle in a Bi-Cultural Society</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Villa</namePart>
+        <namePart type="given">Esteban</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1969</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>History</topic><topic>Activism, protest, resistance, struggle</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Mestizaje, mestiza, mestizo</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Washington Neighborhood Center, 400 16th Street, Sacramento, California</note>
+</mods>

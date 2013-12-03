@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Monument to the Missing Gods</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Chagoya</namePart>
+        <namePart type="given">Enrique</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>9 1/2"" x 14"" x 3 1/2"" </extent>
+   </physicalDescription>
+    <subject>
+        <topic>Calavera</topic><topic>Irony</topic><topic>Religious iconography</topic><topic>Altar, altar installation</topic><topic>Cultural icons, heroes, heroines</topic><topic>Popular art and culture</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

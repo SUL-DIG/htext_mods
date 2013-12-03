@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Lolita Lebrón</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Lucero</namePart>
+        <namePart type="given">Linda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>28 1/2"" x 22 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Language, text, wordplay</topic><topic>Activism, protest, resistance, struggle</topic><topic>Transnationalism, panamericanism</topic><topic>Cultural icons, heroes, heroines</topic><topic>Puerto Rican independence</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Civil Liberties</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Climb to Aztlán</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Tineo</namePart>
+        <namePart type="given">David</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Aztlan</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Public art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">El Rio Neighborhood Center, Tucson, Arizona</note>
+</mods>

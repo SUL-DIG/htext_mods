@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Lomas Garza: Pedacito de mi Corazón (Ten sections)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Lomas Garza</namePart>
+        <namePart type="given">Carmen</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>gouache and watercolor on paper</form>
+        <extent>15 1/2"" x 75"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Papel picado</topic><topic>Knowledge</topic><topic>Cactus, maguey</topic><topic>Codex</topic><topic>Animals</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Citizen</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pencil</form>
+        <extent>8"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Nation, nationality</topic><topic>Violence</topic><topic>Urban imagery</topic><topic>Class, capitalism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Not-Vargas: The Forgotten Name Codex</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vargas</namePart>
+        <namePart type="given">Kathy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Hand-colored photographs, graphite on paper</form>
+        <extent>22"" x 54 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Father</topic><topic>Language, text, wordplay</topic><topic>Indigenous</topic><topic>Colonialism</topic><topic>Codex</topic><topic>Art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

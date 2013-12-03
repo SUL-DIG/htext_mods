@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Herron III La Culata: Patrimony and Consequence</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Herrón</namePart>
+        <namePart type="given">Willie</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>29"" x 49 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Colonialism</topic><topic>Religious iconography</topic><topic>Violence</topic><topic>Heart, corazón</topic><topic>Racism</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

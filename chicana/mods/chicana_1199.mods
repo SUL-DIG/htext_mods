@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled (by Gronk)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>November 1972</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on cardboard</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic>
+   </subject>
+
+    
+    
+    <note type="location">Ahora Lo Veras Exhibition / Mechicano Art Center / East Los Angeles</note>
+</mods>

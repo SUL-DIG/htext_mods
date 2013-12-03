@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Emiliano Zapata</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">García</namePart>
+        <namePart type="given">Rupert</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1969</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>26"" x 19""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cultural icons, heroes, heroines</topic><topic>Zapata</topic><topic>Mexican revolution</topic><topic>Land</topic><topic>Portrait</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

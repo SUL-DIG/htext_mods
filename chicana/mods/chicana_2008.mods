@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Codex Yáñez: Xata Nalga Xolo Xuxu (Detail of front)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Yañez</namePart>
+        <namePart type="given">Larry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on wood, mixed media</form>
+        <extent>15"" x 63"" x 4 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Caja, box</topic><topic>Language, text, wordplay</topic><topic>Calavera</topic><topic>Revolution</topic><topic>Class, capitalism</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

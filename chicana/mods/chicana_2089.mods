@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>My Grandmother's Bedroom</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation, mixed media with gessoed cheese cloth, wood frame doorway</form>
+        <extent>8' x 12' x 8'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Family</topic><topic>Domestic space</topic><topic>House, home</topic><topic>Grandmother</topic><topic>Elder</topic>
+   </subject>
+
+    
+    
+    
+</mods>

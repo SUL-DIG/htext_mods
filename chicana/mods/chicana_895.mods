@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>West Coast Crash</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Almaráz</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>18 1/4"" x 54""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Violence</topic><topic>Land</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Redefining American Art</note>
+    
+</mods>

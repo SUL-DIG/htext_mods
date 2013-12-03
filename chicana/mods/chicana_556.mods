@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Broken</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Valdéz</namePart>
+        <namePart type="given">Patssi</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic>
+   </subject>
+
+    
+    
+    <note type="location">Dan Saxon Gallery / Los Angeles, California</note>
+</mods>

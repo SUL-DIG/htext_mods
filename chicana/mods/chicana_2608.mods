@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1983</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Serigraph</form>
+        <extent>20"" x 15""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Landscape</topic><topic>Earth, tierra, nature, ecology</topic><topic>Desert</topic><topic>Animals</topic>
+   </subject>
+
+    
+    
+    
+</mods>

@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Somos Aztlán (Detail of upper right corner)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aguayo</namePart>
+        <namePart type="given">Emilio</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1971</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Aztlan</topic><topic>Nation, nationality</topic><topic>Tripartite head</topic><topic>Land</topic><topic>Activism, protest, resistance, struggle</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Ethnic Cultural Center, University of Washington, Seattle</note>
+</mods>

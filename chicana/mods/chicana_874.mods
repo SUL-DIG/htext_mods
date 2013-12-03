@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Dolor</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Maradiaga</namePart>
+        <namePart type="given">Ralph</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>17 1/2"" x 23 1/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Violence</topic><topic>Heart, corazón</topic><topic>Sacred heart</topic><topic>Barbed wire</topic><topic>Border</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

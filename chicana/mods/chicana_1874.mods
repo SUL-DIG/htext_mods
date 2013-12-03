@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Raspado Mojados (Detail of side view.)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1994</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media on street vendor cart</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Immigration</topic><topic>Work, labor</topic><topic>Gender, masculinity, femininity</topic><topic>Class, capitalism</topic><topic>Barrio</topic><topic>Urban imagery</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Urban Revision: Current Project for the Public Realm</note>
+    <note type="location">Museum of Contemporary Art, Los Angeles, California</note>
+</mods>

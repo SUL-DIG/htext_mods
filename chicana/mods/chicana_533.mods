@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Madonna y Ixuintli</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cervantez</namePart>
+        <namePart type="given">Yreina D.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        <dateOther type="early">1968</dateOther>
+        <dateOther type="late">1969</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor</form>
+        <extent>24"" x 18""</extent>
+   </physicalDescription>
+    <subject>
+        
+   </subject>
+
+    
+    
+    
+</mods>

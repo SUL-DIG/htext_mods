@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>X's Party*</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1983</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Fotonovela performance</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Performance</topic><topic>Public art</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Urban imagery</topic>
+   </subject>
+
+    
+    
+    
+</mods>

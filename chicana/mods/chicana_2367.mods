@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Parot</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Cesar A.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>70"" x 50""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Language, text, wordplay</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

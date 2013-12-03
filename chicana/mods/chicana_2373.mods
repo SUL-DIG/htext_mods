@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>A Manera</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ornelas</namePart>
+        <namePart type="given">Rodolfo B.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        <extent>14"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Public space</topic><topic>Gender, masculinity, femininity</topic><topic>Car, car culture, lowrider</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

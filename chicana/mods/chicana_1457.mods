@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Runner (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on paper</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Gender, masculinity, femininity</topic><topic>Adolescence, youth</topic><topic>Athletics</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

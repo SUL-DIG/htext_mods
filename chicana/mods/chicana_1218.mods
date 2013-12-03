@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Cruel Profit *</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Super-8 film image</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Performance</topic><topic>Film</topic><topic>Violence</topic>
+   </subject>
+
+    
+    
+    
+</mods>

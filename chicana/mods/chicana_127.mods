@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Dr. Elroy Rodriguez *</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic>
+   </subject>
+
+    
+    
+    <note type="location">San Antonio, Texas</note>
+</mods>

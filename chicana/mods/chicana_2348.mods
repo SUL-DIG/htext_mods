@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Mestizo Banner</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Emanuel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1967</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen on canvas</form>
+        <extent>23 1/4"" x 18 1/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Tripartite head</topic><topic>Mestizaje, mestiza, mestizo</topic><topic>Indigenous knowledge, world view</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

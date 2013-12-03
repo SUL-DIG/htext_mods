@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Juanito With Pork Pie Hat, Albuquerque, NM</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ganderi</namePart>
+        <namePart type="given">Miguel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Adolescence, youth</topic><topic>Barrio</topic><topic>Public space</topic><topic>Graffiti, aerosol art, placa</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

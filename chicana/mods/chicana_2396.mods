@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Homenaje a Diego Rivera</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Raya</namePart>
+        <namePart type="given">Marcos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1972</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Diego Rivera</topic><topic>Cultural icons, heroes, heroines</topic><topic>Public art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Pilsen barrio, Chicago (not extant)</note>
+</mods>

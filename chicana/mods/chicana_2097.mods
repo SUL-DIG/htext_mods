@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>All the Words</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor and graphite on paper</form>
+        <extent>15"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    
+    
+</mods>

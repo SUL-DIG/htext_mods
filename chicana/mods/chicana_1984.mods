@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Modern Living Through Chemistry (Close up)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alvarez</namePart>
+        <namePart type="given">Cecilia C.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>20"" x 12"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Pesticides, toxic waste</topic><topic>La Muerte, death</topic><topic>Pregnancy, childbirth, fertility</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

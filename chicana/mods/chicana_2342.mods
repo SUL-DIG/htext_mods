@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Ricardo Flores-Magon</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cortez Koyokuikatl</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Woodcut</form>
+        <extent>35"" x 22 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Racism</topic><topic>Racial representation</topic><topic>Revolution</topic><topic>Language, text, wordplay</topic><topic>Prison</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

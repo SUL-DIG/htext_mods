@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Abriendo Tierra / Breaking Ground (Detail of text on glass)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Glass door narrative</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Language, text, wordplay</topic><topic>Conceptual</topic><topic>Immigration</topic><topic>Border</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">Dallas Musuem of Art / Dallas, Texas</note>
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Pasion</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1994</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Collotype</form>
+        <extent>10"" x 8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Sexuality</topic><topic>Body</topic><topic>Graffiti, aerosol art, placa</topic><topic>Religious iconography</topic><topic>Body art, body decoration, body modification, tattoo</topic>
+   </subject>
+
+    
+    
+    
+</mods>

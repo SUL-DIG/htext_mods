@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">José</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1977</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Ink on paper</form>
+        <extent>11"" x 8 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Style, fashion, hair, make up, clothing</topic><topic>Couple</topic><topic>Pachuco, pachuca, zoot suit</topic><topic>Urban imagery</topic><topic>Activism, protest, resistance, struggle</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

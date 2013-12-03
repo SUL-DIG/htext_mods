@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Rick Salazar- photographer</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Mass media</topic><topic>Urban imagery</topic><topic>Racial representation</topic><topic>Racism</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    
+</mods>

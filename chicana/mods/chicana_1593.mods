@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>My Alamo #3B</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vargas</namePart>
+        <namePart type="given">Kathy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1995</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Hand colored photograph with mixed media</form>
+        <extent>20"" x 16""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Colonialism</topic><topic>Conquest, conquistador</topic><topic>Land</topic><topic>Alamo</topic>
+   </subject>
+
+    
+    <note type="exhibition">From the West: Chicano Narrative Photography</note>
+    <note type="location">The Mexican Museum, San Francisco, California</note>
+</mods>

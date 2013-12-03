@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Headache</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Valdéz</namePart>
+        <namePart type="given">Patssi</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>12"" x 9""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Self-portrait</topic><topic>Illness, pain, AIDS, health</topic><topic>Body</topic><topic>Domestic space</topic><topic>Gender, masculinity, femininity</topic><topic>Self-representation</topic>
+   </subject>
+
+    
+    
+    
+</mods>

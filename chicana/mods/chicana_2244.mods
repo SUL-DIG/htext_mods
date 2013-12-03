@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>El Lenguaje Mundo del Alma (Final Square detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        <extent>5' x 6'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Education</topic><topic>Signing</topic><topic>Language, text, wordplay</topic><topic>Alphabet</topic><topic>Children, childhood</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

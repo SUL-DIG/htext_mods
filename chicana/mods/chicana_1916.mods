@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Medusa's Head (View of main mural.)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1973</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        <extent>36' x 36'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Artistic production</topic><topic>Community</topic>
+   </subject>
+
+    
+    
+    <note type="location">Wabash Recreation Center / Los Angeles, California</note>
+</mods>

@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Deer Heart</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media collage on arches</form>
+        <extent>22"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Animals</topic><topic>Heart, corazón</topic><topic>Religion, spirituality</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

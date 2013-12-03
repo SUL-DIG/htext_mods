@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Children</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>elax</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Children, childhood</topic><topic>Portrait</topic>
+   </subject>
+
+    
+    
+    
+</mods>

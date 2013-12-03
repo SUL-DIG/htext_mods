@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Guadalupe Mural Project / Farmworkers of Guadalupe (Detail of farmworkers picking cauliflower.)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1989</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural- acrylic on plywood</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Activism, protest, resistance, struggle</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Campesino, campesina</topic><topic>Work, labor</topic><topic>Land</topic><topic>Mural</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">Guadalupe, California</note>
+</mods>

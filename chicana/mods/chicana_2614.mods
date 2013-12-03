@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Se Abre el Mundo / The World Opens Up</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Ektacolor photocollage</form>
+        <extent>8"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Land</topic><topic>Sky</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

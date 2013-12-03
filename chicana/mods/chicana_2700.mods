@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>A Self Portrait as a Tehuana / Diego on My Mind</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Kahlo</namePart>
+        <namePart type="given">Frida</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1943</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on masonite</form>
+        <extent>29 3/4"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Love</topic><topic>Couple</topic><topic>Popular art and culture</topic><topic>Memory</topic><topic>Self-portrait</topic>
+   </subject>
+
+    
+    
+    
+</mods>

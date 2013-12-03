@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Santera</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alvarez</namePart>
+        <namePart type="given">Cecilia C.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>7' x 6'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Afro-Cuban</topic><topic>Santeria</topic><topic>Dance</topic><topic>Body</topic><topic>Transnationalism, panamericanism</topic><topic>Hybridity, syncretism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

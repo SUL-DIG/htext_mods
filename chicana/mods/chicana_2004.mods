@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Emanuel: The Quincentenary: In Light of Quinto Sol</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Emanuel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas, ceramic, wood</form>
+        <extent>48"" x 57"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Conquest, conquistador</topic><topic>Mestizaje, mestiza, mestizo</topic><topic>Violence</topic><topic>Indigenous knowledge, world view</topic><topic>Tripartite head</topic><topic>Colonialism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

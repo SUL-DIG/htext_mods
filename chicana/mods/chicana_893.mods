@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Women Under Fire</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Castro</namePart>
+        <namePart type="given">Isabel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Color Xerox</form>
+        <extent>11"" x 8 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Sexism</topic><topic>Gender, masculinity, femininity</topic><topic>Body</topic><topic>Violence</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Feminist Visions</note>
+    
+</mods>

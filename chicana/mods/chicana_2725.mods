@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>El Milagro/ The Miracle</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Lomas Garza</namePart>
+        <namePart type="given">Carmen</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>36"" x 48""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Serpent</topic><topic>Religious iconography</topic><topic>La Virgen de Guadalupe</topic><topic>Rural</topic><topic>Religion, spirituality</topic><topic>Animals</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

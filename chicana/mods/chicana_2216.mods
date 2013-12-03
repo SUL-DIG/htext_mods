@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Immersion</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1989</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Fresco</form>
+        <extent>18"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Water</topic><topic>Hand</topic><topic>Body</topic><topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    
+    
+    
+</mods>

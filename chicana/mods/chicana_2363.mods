@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>No Vale Homes</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Limón</namePart>
+        <namePart type="given">Leo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic and spray paint on canvas</form>
+        <extent>22"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Violence</topic><topic>Urban imagery</topic><topic>Gang</topic><topic>Calavera</topic><topic>Homegirl, homeboy, chola, cholo</topic><topic>Adolescence, youth</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

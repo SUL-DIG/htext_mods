@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Corazón de los Hermanos</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>28"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religion, spirituality</topic><topic>Architecture</topic><topic>Portrait</topic><topic>Grandather, abuelo</topic><topic>Prayer</topic><topic>Heart, corazón</topic>
+   </subject>
+
+    
+    
+    
+</mods>

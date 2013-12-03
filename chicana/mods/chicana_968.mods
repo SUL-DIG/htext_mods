@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Artemis</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pencil on paper</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Animals</topic><topic>Cultural icons, heroes, heroines</topic><topic>Earth, tierra, nature, ecology</topic><topic>Religion, spirituality</topic>
+   </subject>
+
+    
+    
+    
+</mods>

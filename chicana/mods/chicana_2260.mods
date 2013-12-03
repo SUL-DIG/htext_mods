@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Genízara</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Collotype</form>
+        <extent>10"" x 8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Racial representation</topic><topic>Native American, U.S. Indian</topic><topic>Community</topic><topic>Cultural icons, heroes, heroines</topic><topic>Mestizaje, mestiza, mestizo</topic><topic>Hybridity, syncretism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

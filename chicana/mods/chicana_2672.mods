@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Dancing Couple by José Varela, local clay,1983</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vargas</namePart>
+        <namePart type="given">Kathy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Popular art and culture</topic><topic>Couple</topic>
+   </subject>
+
+    
+    <note type="exhibition">Art Among Us</note>
+    
+</mods>

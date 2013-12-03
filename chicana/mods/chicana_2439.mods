@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Farmworkersí Mural</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Torres</namePart>
+        <namePart type="given">Anastacio</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978-80</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Class, capitalism</topic><topic>Work, labor</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Cassiano Homes Housing Project, San Antonio, Texas</note>
+</mods>

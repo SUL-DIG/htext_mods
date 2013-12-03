@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Virgen del Carmen</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Suarez Rosado</namePart>
+        <namePart type="given">Angel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Altar/installation, Mixed media </form>
+        <extent>74"" x 50"" x 55"" </extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Virgin</topic><topic>Popular art and culture</topic><topic>Sacred space</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

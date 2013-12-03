@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Mis Madres (My Mothers)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>screenprint</form>
+        <extent>30"" x 22""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cosmology</topic><topic>Dichotomy, duality</topic><topic>Mother</topic><topic>Earth, tierra, nature, ecology</topic><topic>Religion, spirituality</topic>
+   </subject>
+
+    
+    
+    
+</mods>

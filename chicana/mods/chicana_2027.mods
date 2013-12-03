@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Zelia: Las Hijas de la Xingada Madre (Back)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>54 1/4"" x 50 1/2"" x 1 3/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Daughters</topic><topic>Native American, U.S. Indian</topic><topic>Quetzalcoatl</topic><topic>Corn</topic><topic>Violence</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

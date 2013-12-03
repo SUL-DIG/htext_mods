@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Names Do Hurt Me</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>24"" x 12""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Racism</topic><topic>Sexism</topic><topic>Class</topic><topic>Cockroach</topic><topic>Colorism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

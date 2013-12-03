@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Petro Glyph</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media collage on arches</form>
+        <extent>40"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Indigenous knowledge, world view</topic><topic>Memory</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    
+    
+</mods>

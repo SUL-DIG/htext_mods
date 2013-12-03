@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Mujeres de Fuego</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on sheet rock</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Frida Kahlo</topic><topic>Adelita</topic><topic>War, peace</topic><topic>Mother</topic><topic>Mural</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">Stanford University / Stanford, California</note>
+</mods>

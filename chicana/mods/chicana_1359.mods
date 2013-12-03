@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Still Life de Frida Mono y Higos (Both panels)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ybañez</namePart>
+        <namePart type="given">Terry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on wood, tin</form>
+        <extent>7"" x 12""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Still life</topic><topic>Animals</topic><topic>Frida Kahlo</topic>
+   </subject>
+
+    
+    
+    
+</mods>

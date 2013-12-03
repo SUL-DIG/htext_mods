@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Las Cuatas Diego</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alvarez</namePart>
+        <namePart type="given">Cecilia C.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>25 3/4"" x 19 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Female power</topic><topic>Twins</topic><topic>Family</topic><topic>Portrait</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

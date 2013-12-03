@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Self-Portrait</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>20"" x 16""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Self-portrait</topic><topic>Calavera</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Trenza</topic><topic>Vision</topic><topic>Self-representation</topic>
+   </subject>
+
+    
+    
+    
+</mods>

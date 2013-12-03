@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Toledo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media installation</form>
+        <extent>10' x 6' x 4'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Conceptual</topic><topic>Caja</topic><topic>Box</topic>
+   </subject>
+
+    
+    
+    
+</mods>

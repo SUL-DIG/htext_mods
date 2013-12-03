@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Placa /Rollcall</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1980</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>68"" x 83""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Graffiti, aerosol art, placa</topic><topic>Public space</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

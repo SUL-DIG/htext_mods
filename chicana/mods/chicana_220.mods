@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>English Only- detail</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Underwood</namePart>
+        <namePart type="given">Consuelo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>2001</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>natural brown cotton and acrylic paint</form>
+        <extent>50"" x 48""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Language, text, wordplay</topic><topic>Land</topic><topic>Activism, protest, resistance, struggle</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    
+    
+    
+</mods>

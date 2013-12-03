@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Por La Calle Guadalupe -o- El Chavalito Lounge</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Santos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pencil on paper</form>
+        <extent>13 5/8"" x 17""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Barrio</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Class, capitalism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

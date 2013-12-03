@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Three Graduates</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Pérez</namePart>
+        <namePart type="given">Antonio</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        <extent>14"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Barrio</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Adolescence, youth</topic><topic>Education</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>World Wall: Triumph of the Hearts</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        <dateOther type="early">1986</dateOther>
+        <dateOther type="late">1990</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Traveling mural, Acrylic on canvas</form>
+        <extent>10' x 30'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>War, peace</topic><topic>Transnationalism, panamericanism</topic><topic>Vision</topic><topic>Future</topic><topic>Gender, masculinity, femininity</topic><topic>Mural</topic>
+   </subject>
+
+    
+    
+    <note type="location">Premiered 1990, Joensuu, Finland</note>
+</mods>

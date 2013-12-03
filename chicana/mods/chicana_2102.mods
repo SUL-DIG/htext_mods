@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Sin Palabra</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Graphite on rice paper</form>
+        <extent>15"" x 7 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Language, text, wordplay</topic><topic>Gender, masculinity, femininity</topic><topic>Body</topic>
+   </subject>
+
+    
+    
+    
+</mods>

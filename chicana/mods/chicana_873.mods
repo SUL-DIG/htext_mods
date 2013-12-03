@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Chilis over Asia</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">LeRoy</namePart>
+        <namePart type="given">Luís</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>26"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Chile</topic><topic>Language, text, wordplay</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

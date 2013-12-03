@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Cuatro Hermanos (Four Brothers)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Avila</namePart>
+        <namePart type="given">Adám</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silver print photograph</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Family</topic><topic>Gender, masculinity, femininity</topic><topic>Portrait</topic><topic>House, home</topic><topic>Domestic space</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

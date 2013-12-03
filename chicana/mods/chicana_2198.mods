@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>L.A. History- A Mexican Perspective (Last third)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981-1983</dateIssued>
+        <dateOther type="early">1981</dateOther>
+        <dateOther type="late">1983</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        <extent>16' x 80'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Siqueiros</topic><topic>Japanese internment</topic><topic>Hollywood</topic><topic>Subjugated knowledge</topic><topic>Alternative history</topic><topic>Los Angeles</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Los Angeles</note>
+</mods>

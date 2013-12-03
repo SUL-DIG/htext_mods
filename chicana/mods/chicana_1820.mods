@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>World Wall  (detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form> Portable mural on canvas</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Activism, protest, resistance, struggle</topic><topic>Transnationalism, panamericanism</topic><topic>Mural</topic><topic>Public art</topic><topic>War, peace</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

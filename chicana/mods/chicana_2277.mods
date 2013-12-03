@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Madonna and Child</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1994</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Collotype</form>
+        <extent>10"" x 8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Refashioning cultural icons</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Mother</topic><topic>Children, childhood</topic><topic>Heart, corazón</topic>
+   </subject>
+
+    
+    
+    
+</mods>

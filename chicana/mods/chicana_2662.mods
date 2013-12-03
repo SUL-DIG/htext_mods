@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Dining room suite handcarved from mahogany by Roberto GonzalezWrought iron dining table by Rafael Gomez</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vargas</namePart>
+        <namePart type="given">Kathy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Popular art and culture</topic><topic>Furniture</topic>
+   </subject>
+
+    
+    <note type="exhibition">Art Among Us</note>
+    
+</mods>

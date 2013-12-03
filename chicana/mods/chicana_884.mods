@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Precious preciosa</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Galindo</namePart>
+        <namePart type="given">Alex</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silver gelatin print</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Gender, masculinity, femininity</topic><topic>Domestic space</topic><topic>House, home</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

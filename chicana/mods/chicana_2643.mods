@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Chameleon</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media installation</form>
+        <extent>40"" x 20"" x 14 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Family</topic><topic>Mirror</topic><topic>Artistic role models</topic><topic>Body art, body decoration, body modification, tattoo</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>En Busca</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor, pastel on fabriano paper</form>
+        <extent>30 1/2"" x 22""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Earth, tierra, nature, ecology</topic><topic>Land</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Feminist Visions</note>
+    
+</mods>

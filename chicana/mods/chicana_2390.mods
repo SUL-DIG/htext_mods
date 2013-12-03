@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>A Book's Memory</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Unzueta</namePart>
+        <namePart type="given">Manuel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1971-72</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Body</topic><topic>Earth, tierra, nature, ecology</topic><topic>Education</topic><topic>Magic</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Casa de la Raza Library, Santa Barbara, California</note>
+</mods>

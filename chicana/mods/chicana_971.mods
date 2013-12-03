@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Flaming Heart</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Heart, corazón</topic><topic>Love, romantic love, revolutionary love</topic>
+   </subject>
+
+    
+    
+    <note type="location">Gilbert Roland Collection</note>
+</mods>

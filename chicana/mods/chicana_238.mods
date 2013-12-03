@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Alba- detail</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Underwood</namePart>
+        <namePart type="given">Consuelo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1997</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation: wire, corn, rock, flowers, gold</form>
+        <extent>10' x 6' x 6'</extent>
+   </physicalDescription>
+    <subject>
+        
+   </subject>
+
+    
+    
+    
+</mods>

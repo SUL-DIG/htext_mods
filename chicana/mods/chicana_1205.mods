@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Instant Mural (Umberto Sandoval)*</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>ASCO performance</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Public art</topic><topic>Public space</topic><topic>Violence</topic><topic>Mural</topic><topic>Performance</topic>
+   </subject>
+
+    
+    
+    <note type="location">Liquor store wall / East Los Angeles</note>
+</mods>

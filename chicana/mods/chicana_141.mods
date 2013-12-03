@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Bert Corona</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1974</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Activism, protest, resistance, struggle</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic>
+   </subject>
+
+    
+    
+    <note type="location">East Los Angeles, California</note>
+</mods>

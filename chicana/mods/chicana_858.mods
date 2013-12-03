@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Malinche Tenia sus Rasones</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alvarez</namePart>
+        <namePart type="given">Cecilia C.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1997</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on paper</form>
+        <extent>36"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Malinche</topic><topic>Refashioning cultural icons</topic>
+   </subject>
+
+    
+    
+    
+</mods>

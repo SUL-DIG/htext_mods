@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>La Dualidad (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aranda</namePart>
+        <namePart type="given">Guillermo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1971-79</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Dichotomy, duality</topic><topic>Public art</topic><topic>Mestizaje, mestiza, mestizo</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Centro Cultural de la Raza, Balboa Park, San Diego, California</note>
+</mods>

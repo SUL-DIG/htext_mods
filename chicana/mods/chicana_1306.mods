@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>La Promesa de Loma Prieta (Detail of Taino Man)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on sheet rock- mural</form>
+        <extent>35' x 35'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Indigenous knowledge, world view</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">UC Santa Cruz / Santa Cruz, California</note>
+</mods>

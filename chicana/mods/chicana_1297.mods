@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Mission Street Manifesto</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on wood panel</form>
+        <extent>12' x 24'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Barrio</topic><topic>Language, text, wordplay</topic><topic>Urban imagery</topic><topic>Mural</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Public art</topic>
+   </subject>
+
+    
+    
+    
+</mods>

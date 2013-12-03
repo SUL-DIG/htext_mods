@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>The Bedroom</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Domínguez</namePart>
+        <namePart type="given">Eddie</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986-1987</dateIssued>
+        <dateOther type="early">1986</dateOther>
+        <dateOther type="late">1987</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media installation</form>
+        <extent>9' x 11' x 14'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Vanity</topic><topic>Mirror</topic><topic>Fantastic</topic><topic>Domestic space</topic><topic>Popular art and culture</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

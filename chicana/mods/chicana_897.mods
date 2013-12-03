@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Virgen y Yo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">García</namePart>
+        <namePart type="given">Rupert</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel on paper</form>
+        <extent>48 1/4"" x 73""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Spirituality</topic><topic>Self-portrait</topic><topic>La Virgen de Guadalupe</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Redefining American Art</note>
+    
+</mods>

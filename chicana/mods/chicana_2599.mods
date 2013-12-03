@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Figura Trazada</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor, collage on gessoed mulberry paper</form>
+        <extent>60"" x 36""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Violence</topic><topic>Nude, naked, unclothed</topic><topic>Heart, corazón</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    
+</mods>

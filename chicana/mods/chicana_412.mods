@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Cactus Hearts and Barbed Wire Dreams</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Racism</topic><topic>Border</topic><topic>Violence</topic><topic>Colonialism</topic><topic>Immigration</topic>
+   </subject>
+
+    
+    
+    <note type="location">Galeria de la Raza, San Francisco, CA</note>
+</mods>

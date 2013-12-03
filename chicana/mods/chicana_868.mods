@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>A Juanderful Piece</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Rudy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Polychrome glazed ceramic</form>
+        <extent>23"" x 18 1/2"" x 4 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Stereotypes</topic><topic>Rasquachismo, domesticana</topic><topic>Language, text, wordplay</topic><topic>Bilingual</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Humor</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

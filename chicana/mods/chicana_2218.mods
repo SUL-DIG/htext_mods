@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>La Muñeca / The Doll  (Detail of middle)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel on museum board</form>
+        <extent>32"" x 40""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Children, childhood</topic><topic>Violence</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Parade</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel</form>
+        <extent>22"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Car</topic><topic>Public space</topic><topic>Native American, U.S. Indian</topic>
+   </subject>
+
+    
+    
+    
+</mods>

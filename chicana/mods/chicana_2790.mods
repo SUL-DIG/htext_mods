@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Sun Mad</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Screenprint</form>
+        <extent>22"" x 17""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Pesticides, toxic waste</topic><topic>Consumer</topic><topic>Calavera</topic><topic>Mass media</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Activism, protest, resistance, struggle</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA): Redefining American Art</note>
+    
+</mods>

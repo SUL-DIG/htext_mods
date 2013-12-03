@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Crossing the Line (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor monoprint on screened cedar paper</form>
+        <extent>39"" x 26""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Immigration</topic><topic>Indigenous knowledge, world view</topic><topic>Border</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Colonialism</topic><topic>Land</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

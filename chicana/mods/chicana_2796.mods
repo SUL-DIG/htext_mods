@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Los Tacones de Lydia Mendoza</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel</form>
+        <extent>36"" x 48'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Performance</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    
+    
+</mods>

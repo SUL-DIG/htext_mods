@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Sobreviviente</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel on rag paper</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Violence</topic><topic>War, peace</topic><topic>Light</topic><topic>Sight</topic>
+   </subject>
+
+    
+    
+    
+</mods>

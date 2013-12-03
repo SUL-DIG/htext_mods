@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Chile Chaps</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Sandoval</namePart>
+        <namePart type="given">Teddy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>40 "" x 36""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Style, fashion, hair, make up, clothing</topic><topic>Stereotypes</topic><topic>Chile</topic><topic>Cowboy</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

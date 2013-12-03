@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Maestrapeace (Scaffolding on 5th floor)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993-1994</dateIssued>
+        <dateOther type="early">1993</dateOther>
+        <dateOther type="late">1994</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Process</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Mural</topic><topic>Public art</topic>
+   </subject>
+
+    
+    
+    <note type="location">Women's Building / San Francisco, California</note>
+</mods>

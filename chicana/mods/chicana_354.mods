@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>""A"" Avenues</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>72"" x 84"" x 2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Graffiti, aerosol art, placa</topic><topic>Urban imagery</topic><topic>Los Angeles</topic>
+   </subject>
+
+    
+    
+    
+</mods>

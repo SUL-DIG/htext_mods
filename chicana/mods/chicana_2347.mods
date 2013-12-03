@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Bracero No. 2</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cortez Koyokuikatl</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1967</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Linocut</form>
+        <extent>8 1/2"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Land</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Campesino, campesina</topic><topic>Work, labor</topic><topic>Class, capitalism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - La Causa</note>
+    
+</mods>

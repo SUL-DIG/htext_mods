@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>My Little Wound</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor, graphite on kozo</form>
+        <extent>43 1/4"" x 25 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Sexuality</topic><topic>Body</topic><topic>Gender, masculinity, femininity</topic><topic>Quetzalcoatl</topic><topic>Serpent</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

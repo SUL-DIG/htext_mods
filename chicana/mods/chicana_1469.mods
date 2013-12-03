@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled: Guadalupe Series</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Collage greeting card</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>La Virgen de Guadalupe</topic><topic>Nation, nationality</topic><topic>Flag</topic>
+   </subject>
+
+    
+    
+    
+</mods>

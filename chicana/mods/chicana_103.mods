@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Homeboys</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Los Angeles</topic><topic>Portrait</topic><topic>Homegirl, homeboy, chola, cholo</topic><topic>Gender, masculinity, femininity</topic><topic>Public space</topic>
+   </subject>
+
+    
+    
+    <note type="location">Los Angeles, California</note>
+</mods>

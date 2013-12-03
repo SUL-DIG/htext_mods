@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled Collage</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>6"" x 4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Virgen de Guadalupe</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    
+    
+</mods>

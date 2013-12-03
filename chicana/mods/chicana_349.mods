@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Two Talk</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>66"" x 72"" x 2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Graffiti, aerosol art, placa</topic>
+   </subject>
+
+    
+    
+    
+</mods>

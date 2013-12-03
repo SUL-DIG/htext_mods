@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Women Bindery Mural</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Isis</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1997</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>mural</form>
+        
+   </physicalDescription>
+    <subject>
+        
+   </subject>
+
+    
+    
+    <note type="location">Redstone Labor Temple, San Francisco, CA</note>
+</mods>

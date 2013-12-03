@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>A Brand New Ball Game (Detail íUncle Chayoî wall text)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Muñoz</namePart>
+        <namePart type="given">Celia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1994</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media installation</form>
+        <extent>10' x</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Illness, pain, AIDS, health</topic><topic>Violence</topic><topic>Sexuality</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">Capp Street Project / San Francisco, California</note>
+</mods>

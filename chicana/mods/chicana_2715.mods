@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>El Descanso Final or La Entrada</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Barraza</namePart>
+        <namePart type="given">Santa</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1980-1984</dateIssued>
+        <dateOther type="early">1980</dateOther>
+        <dateOther type="late">1984</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>24"" x 17 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Muerte, death</topic><topic>Portrait</topic><topic>Soldier</topic><topic>Mexican Revolution</topic><topic>War, peace</topic><topic>Campesino, campesina</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

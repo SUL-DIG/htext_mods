@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Xochiquetzal</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pastel on paper</form>
+        <extent>36"" x 76""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Medicine</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Body</topic><topic>Nude, naked, unclothed</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Feminist Visions</note>
+    
+</mods>

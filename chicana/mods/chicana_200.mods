@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Virgen Birthday</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Isis</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1997</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic, gouache, pencil, pen and ink on bristol</form>
+        <extent>22 1/2"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Refashioning cultural icons</topic><topic>La Virgen de Guadalupe</topic>
+   </subject>
+
+    
+    
+    
+</mods>

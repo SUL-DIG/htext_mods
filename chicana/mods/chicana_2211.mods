@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Antes (La Gata y Que)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Monoprint with pastel</form>
+        <extent>48"" x 36""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Self-portrait</topic><topic>Papel picado</topic><topic>Paper cutout</topic><topic>Popular art and culture</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    
+    
+</mods>

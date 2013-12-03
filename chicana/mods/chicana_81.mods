@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Hecho en Latinoamerica*</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        
+   </subject>
+
+    
+    
+    <note type="location"> Museo de Arte Moderno/ Mexico</note>
+</mods>

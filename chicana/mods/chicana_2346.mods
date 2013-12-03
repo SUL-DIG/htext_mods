@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Tierra o Muerte</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Emanuel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1967</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen on manila file folder</form>
+        <extent>11 3/4"" x 9 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cultural icons, heroes, heroines</topic><topic>Mexican revolution</topic><topic>Land</topic><topic>Zapata</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

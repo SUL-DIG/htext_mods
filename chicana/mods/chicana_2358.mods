@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Sí Se Puede</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Martínez</namePart>
+        <namePart type="given">Ernesto</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1973</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>26"" x 18""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Gender, masculinity, femininity</topic><topic>Activism, protest, resistance, struggle</topic><topic>Work, labor</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Class, capitalism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - La Causa</note>
+    
+</mods>

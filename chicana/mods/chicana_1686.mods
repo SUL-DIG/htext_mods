@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Ixmiquilpan: Hidalgo Fresco (1550)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1550</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Conquest, conquistador</topic><topic>Colonialism</topic><topic>Religious iconography</topic><topic>Religion, spirituality</topic>
+   </subject>
+
+    
+    
+    <note type="location">Hidalgo</note>
+</mods>

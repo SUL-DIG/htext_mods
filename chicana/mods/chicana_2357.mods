@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>José Montoya</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Patricia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1973</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>18"" x 13"" x 10 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Caja, box</topic><topic>RCAF</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

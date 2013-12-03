@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>El Sagrado Corazon- Intersection for the Arts Gallery</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1995</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Adolescence, youth</topic><topic>Graffiti, aerosol art, placa</topic>
+   </subject>
+
+    
+    <note type="exhibition">Aerosol Collaboration</note>
+    <note type="location">San Francisco, CA</note>
+</mods>

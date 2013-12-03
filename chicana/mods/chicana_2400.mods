@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Black and White Mural</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Herrón</namePart>
+        <namePart type="given">Willie</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1973-1980</dateIssued>
+        <dateOther type="early">1973</dateOther>
+        <dateOther type="late">1980</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>War, peace</topic><topic>Los Angeles</topic><topic>Activism, protest, resistance, struggle</topic><topic>Violence</topic><topic>Colonialism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Estrada Courts Housing Project, Olympic Boulevard and Lorena Street, East Los Angeles</note>
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Fin X</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1982</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor, collage on fiberglass</form>
+        <extent>30"" x 22""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Language, text, wordplay</topic><topic>Body</topic><topic>Violence</topic><topic>Calavera</topic>
+   </subject>
+
+    
+    
+    
+</mods>

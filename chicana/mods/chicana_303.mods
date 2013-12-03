@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Guadalupana- detail</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1998</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation</form>
+        <extent>15' x 10'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic>
+   </subject>
+
+    
+    
+    <note type="location">Musee Denys-Puech, Rodez, France</note>
+</mods>

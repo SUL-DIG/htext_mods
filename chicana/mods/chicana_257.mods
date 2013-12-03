@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>#3 Imaging</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1995</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white toned postcard</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Aztlán</topic><topic>Land</topic><topic>Colonialism</topic><topic>Class, capitalism</topic><topic>Racial representation</topic><topic>Gaze</topic>
+   </subject>
+
+    
+    <note type="exhibition">From the West: Chicano Narrative Photography</note>
+    <note type="location">The Mexican Museum, San Francisco, California</note>
+</mods>

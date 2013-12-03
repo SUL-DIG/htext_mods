@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Campesino</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Desiga</namePart>
+        <namePart type="given">Daniel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>50 1/2"" x 58 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Body</topic><topic>Class, capitalism</topic><topic>Work, labor</topic><topic>Land</topic><topic>Campesino, campesina</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

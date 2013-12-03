@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Las Lechugeras (detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1983</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on stucco</form>
+        <extent>15' x 20'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Activism, protest, resistance, struggle</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Work, labor</topic><topic>Class, capitalism</topic><topic>Pesticides, toxic waste</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Mission District, San Francisco</note>
+</mods>

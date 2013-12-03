@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Vida</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Fernández</namePart>
+        <namePart type="given">Rudy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Bronze with faux-marble base</form>
+        <extent>15 1/2"" x 12 1/2"" x 7 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Life</topic><topic>La Muerte, death</topic><topic>Heart, corazón</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Reclaiming the Past</note>
+    
+</mods>

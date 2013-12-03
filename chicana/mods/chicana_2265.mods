@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>#3: Los Jóvenes</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Collotype</form>
+        <extent>8"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Adolescence, youth</topic><topic>Community</topic><topic>Graffiti, aerosol art, placa</topic>
+   </subject>
+
+    
+    
+    
+</mods>

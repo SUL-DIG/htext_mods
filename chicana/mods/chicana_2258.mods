@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>El Misterio</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Collotype</form>
+        <extent>10"" x 8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Community</topic><topic>Hybridity, syncretism</topic><topic>Graffiti, aerosol art, placa</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    
+    
+</mods>

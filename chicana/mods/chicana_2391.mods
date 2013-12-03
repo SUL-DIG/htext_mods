@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Venceremos</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Almaráz</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1972</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Activism, protest, resistance, struggle</topic><topic>Campesino, campesina</topic><topic>Work, labor</topic><topic>Class, capitalism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">United Farm Workers Convention, Fresno, CA</note>
+</mods>

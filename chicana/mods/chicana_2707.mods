@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Llorona</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor on paper</form>
+        <extent>22"" x 29 3/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Refashioning cultural icons</topic><topic>Gender, masculinity, femininity</topic><topic>Mother</topic><topic>Pregnancy, childbirth, fertility</topic><topic>Cultural icons, heroes, heroines</topic><topic>Domestic space</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Feminist Visions</note>
+    
+</mods>

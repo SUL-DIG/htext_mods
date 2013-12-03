@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Quiroz:  Pachucoatlotese</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Quiroz</namePart>
+        <namePart type="given">Alfred</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on wood, amate paper</form>
+        <extent>32"" x 69 5/8"" x 3 5/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Pachuco, pachuca, zoot suit</topic><topic>Language, text, wordplay</topic><topic>Caja, box</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Violence</topic><topic>Racism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

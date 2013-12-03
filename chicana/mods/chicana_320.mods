@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Guadalupe en Piel- window installation</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>2000</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation: mixed media</form>
+        <extent>88"" x 82"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body art, body decoration, body modification, tattoo</topic><topic>Body</topic><topic>La Virgen de Guadalupe</topic>
+   </subject>
+
+    
+    
+    <note type="location">Andrew Smith Gallery</note>
+</mods>

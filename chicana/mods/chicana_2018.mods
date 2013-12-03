@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Delasota: Pages From The Family Scrapbook</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">De la Sota</namePart>
+        <namePart type="given">Raoul</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic and metal on canvas, mixed media </form>
+        <extent>16"" x 62"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Quetzalcoatl</topic><topic>Family</topic><topic>Serpent</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>History</topic><topic>Codex</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

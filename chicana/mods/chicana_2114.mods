@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Coatlicue</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor on fabriano paper</form>
+        <extent>30"" x 22""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Coatlicue</topic><topic>Religion, spirituality</topic><topic>Gender, masculinity, femininity</topic><topic>Indigenous knowledge, world view</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic>
+   </subject>
+
+    
+    
+    
+</mods>

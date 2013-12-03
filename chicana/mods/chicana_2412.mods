@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Read Between the Lines</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Botello</namePart>
+        <namePart type="given">David</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Ford and Olympic Boulevards, East Los Angeles</note>
+</mods>

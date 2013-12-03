@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>At the Crossroads</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Monoprint, silkscreen ink, prisma color on morla paper</form>
+        <extent>26"" x 36""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Mestizaje, mestiza, mestizo</topic><topic>Indigenous knowledge, world view</topic><topic>Colonialism</topic><topic>Nation, nationality</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

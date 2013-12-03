@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Stinkin Badges</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1989</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Painting, spray can on paper</form>
+        <extent>39"" x 38""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Violence</topic>
+   </subject>
+
+    
+    
+    <note type="location">L.A.C.E. Gallery, L.A.</note>
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Ochoa: Chicanosaurus 500/ Chicano Dictionary 500 Year Edition</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ochoa</namePart>
+        <namePart type="given">Victor</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on wood and glass, laminated paper</form>
+        <extent>52"" x 43 1/2"" x 23 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Map</topic><topic>Language, text, wordplay</topic><topic>Cultural icons, heroes, heroines</topic><topic>Tripartite head</topic><topic>Knowledge</topic><topic>Conquest, conquistador</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

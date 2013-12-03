@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>L.A. History - A Mexican Perspective (Detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        <extent>16' x 80'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Los Angeles</topic><topic>Public art</topic><topic>Activism, protest, resistance, struggle</topic><topic>Racism</topic><topic>Colonialism</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Los Angeles</note>
+</mods>

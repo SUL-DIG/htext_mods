@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Resist, Resist, Revolt</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media installation</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Exhibition</topic><topic>Activism, protest, resistance, struggle</topic><topic>Urban imagery</topic><topic>Violence</topic>
+   </subject>
+
+    
+    
+    <note type="location">No Movie Exhibition, LACE</note>
+</mods>

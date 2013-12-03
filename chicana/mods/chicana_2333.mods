@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Pachuco and Pachuca</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Yañez</namePart>
+        <namePart type="given">René</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1977</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Hologram</form>
+        <extent>22 1/2"" x 16 3/8"" (diameter)</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Couple</topic><topic>Urban imagery</topic><topic>Pachuco, pachuca, zoot suit</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Gender, masculinity, femininity</topic><topic>Racial representation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

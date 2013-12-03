@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Death of Rubén Salazar</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Romero</namePart>
+        <namePart type="given">Frank</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985-86</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>72"" x 120""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>History</topic><topic>Urban imagery</topic><topic>Violence</topic><topic>Ruben Salazar</topic><topic>Los Angeles</topic><topic>Chicano Moratorium</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Redefining American Art</note>
+    
+</mods>

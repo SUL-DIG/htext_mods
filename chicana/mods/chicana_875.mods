@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Santo Niño de Atocha</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Santistevan</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>15 1/2"" x 10 1/2"" x 6 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religious iconography</topic><topic>Refashioning cultural icons</topic><topic>Religion, spirituality</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

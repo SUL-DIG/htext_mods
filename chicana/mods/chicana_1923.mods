@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>History of Highland Park</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1977-1978</dateIssued>
+        <dateOther type="early">1977</dateOther>
+        <dateOther type="late">1978</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        <extent>25' x 200'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Public space</topic>
+   </subject>
+
+    
+    
+    <note type="location">Highland Park Pacific Telephone Building</note>
+</mods>

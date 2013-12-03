@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Home Girl #1</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gálvez</namePart>
+        <namePart type="given">Daniel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1983</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on masonite</form>
+        <extent>36"" x 27""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Homegirl, homeboy, chola, cholo</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Portrait</topic><topic>Car culture</topic><topic>Sexuality</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

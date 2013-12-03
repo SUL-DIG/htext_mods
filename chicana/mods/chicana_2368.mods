@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Boulevard Night</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Valverde</namePart>
+        <namePart type="given">Ricardo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silver Print Photograph</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Adolescence, youth</topic><topic>Body art, body decoration, body modification, tattoo</topic><topic>Portrait</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Homegirl, homeboy, chola, cholo</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Libertad</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Etching</form>
+        <extent>16 1/8"" x 10 1/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Freedom</topic><topic>Self-portrait</topic><topic>Refashioning cultural icons</topic><topic>Identity</topic><topic>Mesoamerican</topic><topic>Aztlan</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA): Feminist Visions</note>
+    
+</mods>

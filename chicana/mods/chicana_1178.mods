@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>If This Is Death, I Like It</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>pastel</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>La Muerte, death</topic><topic>Gender, masculinity, femininity</topic><topic>Frida Kahlo</topic><topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    
+    
+    
+</mods>

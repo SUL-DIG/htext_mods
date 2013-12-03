@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Line of Demarcation</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Underwood</namePart>
+        <namePart type="given">Consuelo</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1996</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>wood fiber, gold corn</form>
+        <extent>5' x 15' x 5'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Land</topic><topic>Activism, protest, resistance, struggle</topic><topic>Conquest, conquistador</topic>
+   </subject>
+
+    
+    
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Cultura Sin Fronteras (Mural in progress)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Process</topic>
+   </subject>
+
+    
+    
+    <note type="location">Hispanic Cultural Center / Novato, California</note>
+</mods>

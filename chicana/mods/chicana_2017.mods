@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex íSpainî: Mexico and Me</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Manuel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>India ink on paper</form>
+        <extent>20 1/2"" x 55 1/16""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cartoon</topic><topic>Identity</topic><topic>Nation, nationality</topic><topic>Language, text, wordplay</topic><topic>Codex</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

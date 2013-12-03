@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Lydia Mendoza, Ciudad Juarez</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987 (1937)</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Screen print</form>
+        <extent>22"" x 30""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Performance</topic><topic>Music</topic><topic>Female role models</topic><topic>Cultural icons, heroes, heroines</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    
+    <note type="location">Cuidad Juarez, Mexico</note>
+</mods>

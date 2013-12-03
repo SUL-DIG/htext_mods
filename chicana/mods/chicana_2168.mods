@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Carrasco: Projex</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Carrasco</namePart>
+        <namePart type="given">Barbara</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>12"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Racism</topic><topic>Class, capitalism</topic><topic>Mass media</topic><topic>Religious iconography</topic><topic>Sexism</topic><topic>Activism, protest, resistance, struggle</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    <note type="location">Chicano Codices / San Francisco Museum Traveling Exhibition / SanFrancisco, California</note>
+</mods>

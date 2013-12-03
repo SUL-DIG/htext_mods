@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Black and White (Detail of section by Willie Herron.)*</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979 (Painted 1974-1980)</dateIssued>
+        <dateOther type="early">1974</dateOther>
+        <dateOther type="late">1980</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Mural</topic><topic>Portrait</topic><topic>Public art</topic><topic>Public space</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">Estrada Courts Housing Projects</note>
+</mods>

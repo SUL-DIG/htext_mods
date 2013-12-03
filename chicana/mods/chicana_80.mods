@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>No Detour</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1993</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Performance</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Urban imagery</topic><topic>Language, text, wordplay</topic><topic>Public art</topic><topic>Public space</topic><topic>Performance</topic>
+   </subject>
+
+    
+    
+    
+</mods>

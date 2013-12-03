@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Mother and Daughter</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Pen and ink on paper</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mother</topic><topic>Daughter</topic><topic>Gender, masculinity, femininity</topic><topic>Family</topic>
+   </subject>
+
+    
+    
+    <note type="location">Arte Picante Exhibit</note>
+</mods>

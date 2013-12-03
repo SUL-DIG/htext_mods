@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Flower Day</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rivera</namePart>
+        <namePart type="given">Diego</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1925</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>58"" x 47 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Racial representation</topic><topic>Labor</topic>
+   </subject>
+
+    
+    
+    
+</mods>

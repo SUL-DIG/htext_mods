@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Who Is This Man?</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alvarez</namePart>
+        <namePart type="given">Cecilia C.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media,  collage and acrylic paint on masonite</form>
+        <extent>3' x 12'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Benito Juarez</topic><topic>History</topic><topic>Language, text, wordplay</topic><topic>Public art</topic><topic>Respect</topic><topic>Peace</topic>
+   </subject>
+
+    
+    
+    
+</mods>

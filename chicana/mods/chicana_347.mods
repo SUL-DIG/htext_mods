@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Mi Vida Loca</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Bojorquez</namePart>
+        <namePart type="given">Charles</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1989</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        <extent>12' x 12'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Calavera</topic>
+   </subject>
+
+    
+    
+    <note type="location">L.A.C.E. Gallery, L.A.</note>
+</mods>

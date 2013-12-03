@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Viva La Raza</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Torres</namePart>
+        <namePart type="given">Salvador</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1969</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil on canvas</form>
+        <extent>53"" x 42""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Activism, protest, resistance, struggle</topic><topic>La Causa, UFW, farmworker, agricultural labor</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - La Causa</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Toltecas de la Victoria</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Guerrero</namePart>
+        <namePart type="given">Zarco</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Duppa Villa Housing Project, 20th and Roosevelt Streets, Phoenix, Arizona</note>
+</mods>

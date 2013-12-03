@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>A History of the Chicano Working Class</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vásquez</namePart>
+        <namePart type="given">Emigdio</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1979</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Class, capitalism</topic><topic>Work, labor</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Ibero-American Market, Elm and Lemon Streets, Anaheim, Califonia</note>
+</mods>

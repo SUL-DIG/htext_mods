@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Frida Kahlo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">García</namePart>
+        <namePart type="given">Rupert</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>23"" x 17 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Frida Kahlo</topic><topic>Cultural icons, heroes, heroines</topic><topic>Portrait</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

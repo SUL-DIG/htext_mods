@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Gamboa: The Single Element (Back)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>63 3/4"" x 34 1/2"" x 19 1/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Loss</topic><topic>Assimilation</topic><topic>Violence</topic><topic>Colonialism</topic><topic>Domination</topic><topic>Language, text, wordplay</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

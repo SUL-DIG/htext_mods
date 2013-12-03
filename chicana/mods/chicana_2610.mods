@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Aztlan: The Chicano Homeland</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Cibacrome print</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender</topic><topic>Border</topic><topic>Domestic space</topic><topic>Landscape</topic><topic>House, home</topic><topic>Nation, nationality</topic>
+   </subject>
+
+    
+    
+    
+</mods>

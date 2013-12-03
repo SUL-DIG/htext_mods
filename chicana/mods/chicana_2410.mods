@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>History of the Mexican American Workers (Detail of left side)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Patlán</namePart>
+        <namePart type="given">Raymond</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1974-1975</dateIssued>
+        <dateOther type="early">1974</dateOther>
+        <dateOther type="late">1975</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Public art</topic><topic>Work, labor</topic><topic>Class, capitalism</topic><topic>Activism, protest, resistance, struggle</topic><topic>Body</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Blue Island, Illinois</note>
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Welcome Home</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cortez Koyokuikatl</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1965</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Linocut</form>
+        <extent>11"" x 8 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>War, peace</topic><topic>Family</topic><topic>La Muerte, death</topic><topic>Activism, protest, resistance, struggle</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Civil Liberties</note>
+    
+</mods>

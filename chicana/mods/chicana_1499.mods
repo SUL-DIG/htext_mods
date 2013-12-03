@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Cemetery Series</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vargas</namePart>
+        <namePart type="given">Kathy</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        <dateOther type="early">1979</dateOther>
+        <dateOther type="late">1980</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Black and white photograph</form>
+        <extent>6"" x 6""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cemetery</topic>
+   </subject>
+
+    
+    
+    
+</mods>

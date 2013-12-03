@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>My Grandmother's Bedroom (Detail left corner with night stand)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1990</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Installation with floor mat copper chain porcupine quills</form>
+        <extent>36"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Family</topic><topic>Domestic space</topic><topic>House, home</topic><topic>Indigenous knowledge, world view</topic><topic>Elder</topic><topic>Grandmother</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

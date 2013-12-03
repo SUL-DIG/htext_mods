@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Birth of Our Art</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Silverio</namePart>
+        <namePart type="given">Juán</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1969-70</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Mestizaje, mestiza, mestizo</topic><topic>Gender, masculinity, femininity</topic><topic>Activism, protest, resistance, struggle</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Facade of the Goez Gallery, 3757 E. First Street, East Los Angeles (not extant)</note>
+</mods>

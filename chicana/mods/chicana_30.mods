@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Lunch at Woolworth's (Gronk and Harry Gamboa, Jr.)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1983</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic><topic>Urban imagery</topic><topic>Public art</topic>
+   </subject>
+
+    
+    
+    <note type="location">Woolworth's / downtown Phoenix, Arizona</note>
+</mods>

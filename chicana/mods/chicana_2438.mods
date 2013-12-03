@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Read</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Quezada</namePart>
+        <namePart type="given">Josefína</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Education</topic><topic>Children, childhood</topic><topic>Public art</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Anthony Quinn Public Library, East Los Angeles</note>
+</mods>

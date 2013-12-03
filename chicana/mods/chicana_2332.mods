@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Kahlo Pains</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ramos</namePart>
+        <namePart type="given">Joe</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1977</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor</form>
+        <extent>29 1/2"" x 22""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cultural icons, heroes, heroines</topic><topic>Body</topic><topic>Frida Kahlo</topic><topic>Illness, pain, AIDS, health</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

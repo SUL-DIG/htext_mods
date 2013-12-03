@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Polaroid SX-70</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1981</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Polaroid SX-70 photographs</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Portrait</topic><topic>ASCO</topic>
+   </subject>
+
+    
+    
+    <note type="location">""Gamboa 81"" Exhibition at Galeria Otra vez / East Los Angeles, California</note>
+</mods>

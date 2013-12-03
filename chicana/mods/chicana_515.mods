@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Tu Solo Tu (II)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cervantez</namePart>
+        <namePart type="given">Yreina D.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Serigraph</form>
+        <extent>16"" x 12""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Calavera</topic>
+   </subject>
+
+    
+    
+    
+</mods>

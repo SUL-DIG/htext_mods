@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The Wedding</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Valdéz</namePart>
+        <namePart type="given">John</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Oil pastel on paper</form>
+        <extent>38 1/4"" x 50""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Wedding</topic><topic>Family</topic><topic>Generations</topic><topic>Humor</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Redefining American Art</note>
+    
+</mods>

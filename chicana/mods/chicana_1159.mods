@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Las Posadas: Senior Citizens Mural</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Hernández</namePart>
+        <namePart type="given">Ester</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        <dateOther type="early">1983</dateOther>
+        <dateOther type="late">1984</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Elder</topic><topic>Mural</topic><topic>Popular art and culture</topic><topic>Public art</topic>
+   </subject>
+
+    
+    
+    
+</mods>

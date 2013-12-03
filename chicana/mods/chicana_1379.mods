@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Eclipse</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed Media</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Mother</topic><topic>La Virgen de Guadalupe</topic><topic>Body</topic><topic>Athletics</topic><topic>Sexism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

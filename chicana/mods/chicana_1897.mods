@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Mi Abuelita (Details are added to the dress section of the mural.)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1970</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        <extent>20' x 35'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Public art</topic><topic>Public space</topic><topic>Mural</topic><topic>Artistic production</topic><topic>Community</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    <note type="location">Hollenbeck Park / Los Angeles, California</note>
+</mods>

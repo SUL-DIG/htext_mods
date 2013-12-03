@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Nuble</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor, collage on rice paper</form>
+        <extent>20"" x 10""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Earth, tierra, nature, ecology</topic>
+   </subject>
+
+    
+    
+    
+</mods>

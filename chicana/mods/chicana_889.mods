@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>La Familia VII</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Enríquez</namePart>
+        <namePart type="given">Gaspar</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>10 1/4"" x 8"" x 3 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Religion, spirituality</topic><topic>Family</topic><topic>Altar, altar installation</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Reclaiming the Past</note>
+    
+</mods>

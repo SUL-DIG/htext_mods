@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Ghost Stick Carrier</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Pruneda</namePart>
+        <namePart type="given">Maximiliano</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>35"" x 23"" x 14""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Shaman</topic><topic>Transformation</topic><topic>Ritual</topic><topic>Magic</topic><topic>Past</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

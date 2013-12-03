@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Descanso de Mesa Family</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Mesa-Bains</namePart>
+        <namePart type="given">Amalia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        <dateOther type="early">1994</dateOther>
+        <dateOther type="late">1995</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>14 3/8"" x 14 1/4"" x 13""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Family</topic>
+   </subject>
+
+    
+    
+    
+</mods>

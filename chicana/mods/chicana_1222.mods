@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Dispursuit*</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1972</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media on illustration board</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>ASCO</topic>
+   </subject>
+
+    
+    
+    
+</mods>

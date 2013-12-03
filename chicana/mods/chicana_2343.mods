@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Golden Gloves</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Avila</namePart>
+        <namePart type="given">Adám</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1965</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silver print photograph</form>
+        <extent>16"" x 20""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Boxing</topic><topic>Barrio</topic><topic>Urban imagery</topic><topic>Gender, masculinity, femininity</topic><topic>Body</topic><topic>Athletics</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Adios Frida</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cervantez</namePart>
+        <namePart type="given">Yreina D.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Monoprint, mixed media</form>
+        <extent>20"" x 16""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Frida Kahlo</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    
+    
+    
+</mods>

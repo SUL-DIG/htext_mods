@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Buito y Maguey</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Celia H.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1985</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Graphite, pastel on paper</form>
+        <extent>36"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cactus, maguey</topic><topic>Earth, tierra, nature, ecology</topic><topic>Religion, spirituality</topic>
+   </subject>
+
+    
+    
+    
+</mods>

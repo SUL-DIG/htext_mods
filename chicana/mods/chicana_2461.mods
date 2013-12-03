@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Gilbert</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Aguilar</namePart>
+        <namePart type="given">Laura</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        
+        <dateOther type="early">1992</dateOther>
+        <dateOther type="late">1995</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Gelatin silver print</form>
+        <extent>14"" x 11""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Gender, masculinity, femininity</topic><topic>Style, fashion, hair, make up, clothing</topic>
+   </subject>
+
+    
+    
+    
+</mods>

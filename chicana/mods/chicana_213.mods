@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Her Land</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Isis</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1998</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on bristol</form>
+        <extent>12"" x 12""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Land</topic><topic>Indigenous knowledge, world view</topic>
+   </subject>
+
+    
+    
+    
+</mods>

@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Homenaje a Frida Kahlo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cervantez</namePart>
+        <namePart type="given">Yreina D.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Watercolor</form>
+        <extent>19 7/8"" x 14""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Pregnancy, childbirth, fertility</topic><topic>Mirror</topic><topic>Nude, naked, unclothed</topic><topic>Religious iconography</topic><topic>Refashioning cultural icons</topic><topic>Pre-Columbian imagery, Mesoamerican past, Indigenous roots</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Cultural Icons</note>
+    
+</mods>

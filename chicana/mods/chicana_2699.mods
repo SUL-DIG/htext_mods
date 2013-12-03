@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Self Portrait / El Coronelazo</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Siqueiros</namePart>
+        <namePart type="given">David Alfaro</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1945</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Proxylin on masonite</form>
+        <extent>29 7/8"" x 24""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Self-portrait</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Calavera</topic>
+   </subject>
+
+    
+    
+    
+</mods>

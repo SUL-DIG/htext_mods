@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>La Raza de Oro (Detail of left side)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">González</namePart>
+        <namePart type="given">José</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1975</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mural</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Mural</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Public art</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Murals</note>
+    <note type="location">Hubbard Street, Chicago</note>
+</mods>

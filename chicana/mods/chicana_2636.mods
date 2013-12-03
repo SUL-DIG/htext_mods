@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Isadora Altar</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Cardillo</namePart>
+        <namePart type="given">Rimer</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987-1988</dateIssued>
+        <dateOther type="early">1987</dateOther>
+        <dateOther type="late">1988</dateOther>
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media installation</form>
+        <extent>96"" x 49"" x 35""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Memory</topic><topic>Roots</topic><topic>Pre-Columbian imagery, Mesoamerican past, Indigenous roots</topic><topic>Altar, altar installation</topic><topic>Caja, box</topic>
+   </subject>
+
+    
+    <note type="exhibition">Ceremony of Memory</note>
+    
+</mods>

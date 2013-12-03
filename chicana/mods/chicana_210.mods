@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Little Mz Attitude</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Rodríguez</namePart>
+        <namePart type="given">Isis</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1998</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>spraycan art</form>
+        
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Graffiti, aerosol art, placa</topic><topic>Urban imagery</topic>
+   </subject>
+
+    
+    
+    
+</mods>

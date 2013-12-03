@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Zoot Suit</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Duardo</namePart>
+        <namePart type="given">Richard</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1978</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silkscreen</form>
+        <extent>40"" x 26 1/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Pachuco, pachuca, zoot suit</topic><topic>Racial representation</topic><topic>Identity</topic><topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Urban imagery</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Urban Images</note>
+    
+</mods>

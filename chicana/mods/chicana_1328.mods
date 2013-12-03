@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>The War Voyages</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Alicia</namePart>
+        <namePart type="given">Juana</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1988</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>4' x 6'</extent>
+   </physicalDescription>
+    <subject>
+        <topic>War, peace</topic><topic>Colonialism</topic><topic>Gender, masculinity, femininity</topic><topic>Transnationalism, panamericanism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

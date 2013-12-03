@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Codex Catarino: Reclaiming Language and Culture</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Catarino Montoya</namePart>
+        <namePart type="given">Emmanuel</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Prismacolor on paper, mixed media</form>
+        <extent>40 1/4"" diam.x </extent>
+   </physicalDescription>
+    <subject>
+        <topic>Mass media</topic><topic>Television</topic><topic>Serpent</topic><topic>Domestic space</topic><topic>Calavera</topic><topic>Codex</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

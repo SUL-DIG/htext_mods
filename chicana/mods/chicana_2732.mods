@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Cakewalk</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Lomas Garza</namePart>
+        <namePart type="given">Carmen</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1987</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on canvas</form>
+        <extent>36"" x 48""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Community</topic><topic>Disability</topic><topic>Music</topic><topic>Game</topic><topic>Children, childhood</topic><topic>Animals</topic>
+   </subject>
+
+    
+    
+    
+</mods>

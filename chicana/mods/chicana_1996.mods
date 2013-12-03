@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Amalia: Venus Envy</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Mesa-Bains</namePart>
+        <namePart type="given">Amalia</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Frottage on paper, mixed media</form>
+        <extent>22"" x 62""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Altar, altar installation</topic><topic>Female genealogy</topic><topic>Language, text, wordplay</topic><topic>Codex</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

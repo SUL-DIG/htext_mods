@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Las Tres Marías</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Baca</namePart>
+        <namePart type="given">Judith F.</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1976</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>68"" x 16"" x 2.5""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Gender, masculinity, femininity</topic><topic>Sexuality</topic><topic>Public interaction</topic><topic>Self-portrait</topic><topic>Style, fashion, hair, make up, clothing</topic><topic>Pachuco, pachuca, zoot suit</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA): Urban Images</note>
+    
+</mods>

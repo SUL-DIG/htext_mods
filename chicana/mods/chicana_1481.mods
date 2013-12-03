@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Cactus Hearts and Barbed Wire Dreams (Diptych, apron detail)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">López</namePart>
+        <namePart type="given">Yolanda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1986</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>painted paper</form>
+        <extent>40"" x 60""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Cactus, maguey</topic><topic>Border</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    
+    
+</mods>

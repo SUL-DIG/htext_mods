@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Vaqueros</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Gamboa</namePart>
+        <namePart type="given">Harry</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1973</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        
+        
+   </physicalDescription>
+    <subject>
+        <topic>Ethnic pride, cultural nationalism, affirmation</topic><topic>Gender, masculinity, femininity</topic>
+   </subject>
+
+    
+    
+    <note type="location">Redlands, California</note>
+</mods>

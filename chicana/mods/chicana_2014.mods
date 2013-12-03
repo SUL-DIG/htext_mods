@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex Fresquez: Imagine There's Nothing to Live or Die For; No Religions Too...</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Fresquez</namePart>
+        <namePart type="given">Carlos</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on wood</form>
+        <extent>59"" x 35 1/2"" x 1 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Indigenous knowledge, world view</topic><topic>Dichotomy, duality</topic><topic>Religious iconography</topic><topic>Colonialism</topic><topic>Heart, corazón</topic><topic>Popular art and culture</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

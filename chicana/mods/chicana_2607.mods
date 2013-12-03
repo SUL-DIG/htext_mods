@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Untitled</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1984</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Serigraph</form>
+        <extent>18"" x 23""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Border</topic><topic>Domestic space</topic><topic>Children, childhood</topic><topic>House, home</topic><topic>Portrait</topic>
+   </subject>
+
+    
+    
+    
+</mods>

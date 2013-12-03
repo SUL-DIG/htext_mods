@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Human Shard</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Vallejo</namePart>
+        <namePart type="given">Linda</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1991</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Mixed media</form>
+        <extent>12 3/4"" x 9 1/2""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Body</topic><topic>Archeology</topic><topic>Colonialism</topic>
+   </subject>
+
+    
+    
+    
+</mods>

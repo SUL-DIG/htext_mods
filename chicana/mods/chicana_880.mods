@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Lowrider Couple</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Ramos</namePart>
+        <namePart type="given">Joe</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1980</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Silver gelatin print</form>
+        <extent>20"" x 16""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Portrait</topic><topic>Love, romantic love, revolutionary love</topic><topic>Pachuco, pachuca, zoot suit</topic><topic>Couple</topic><topic>Car, car culture, lowrider</topic><topic>Sexuality</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Art:  Resistance and Affirmation (CARA) - Regional Expressions</note>
+    
+</mods>

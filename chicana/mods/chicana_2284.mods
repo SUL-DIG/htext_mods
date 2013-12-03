@@ -1,0 +1,31 @@
+<mods>
+<titleInfo>
+        <title>Codex Delilah:  Six Deer: Journey from Mexcatl to Chicanaï (Panel 5)</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Montoya</namePart>
+        <namePart type="given">Delilah</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>acrylic on amate paper, mixed media</form>
+        <extent>20"" x 80"" x 13 3/4""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Indigenous knowledge, world view</topic><topic>Codex</topic><topic>Land</topic><topic>Immigration</topic><topic>Cultural icons, heroes, heroines</topic>
+   </subject>
+
+    <part>
+        <text type="legacy-view">Detail</text>
+   </part>
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

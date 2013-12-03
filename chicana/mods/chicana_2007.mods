@@ -1,0 +1,29 @@
+<mods>
+<titleInfo>
+        <title>Codex  Trejo: Tarascans in Minnesota</title>
+   </titleInfo>
+    <name type="personal">
+        <namePart type="family">Trejo</namePart>
+        <namePart type="given">Rubén</namePart>
+   </name>
+    
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued>1992</dateIssued>
+        
+        
+   </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form>Acrylic on plywood, mixed media</form>
+        <extent>41 1/4"" x 73 1/2"" x 3 5/8""</extent>
+   </physicalDescription>
+    <subject>
+        <topic>Geography</topic><topic>Glyph</topic><topic>Mask</topic><topic>Indigenous knowledge, world view</topic><topic>Pre-Columbian imagery, Mesoamerican past, indigenous roots</topic><topic>Colonialism</topic>
+   </subject>
+
+    
+    <note type="exhibition">Chicano Codices</note>
+    
+</mods>

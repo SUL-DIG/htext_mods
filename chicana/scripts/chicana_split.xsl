@@ -3,7 +3,7 @@
     <xsl:output omit-xml-declaration="yes"/>
     <xsl:template match="/modsCollection">
         <xsl:for-each select="mods">
-            <xsl:result-document method="xml" href="chicana_{position()}.xml">
+            <xsl:result-document method="xml" href="chicana_{position()}.mods">
                 <xsl:copy-of select="." />
             </xsl:result-document>
         </xsl:for-each>

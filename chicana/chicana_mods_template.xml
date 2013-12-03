@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd"
+    version="3.3">
+
+    <titleInfo>
+        <title><!-- Title of Image --></title>
+    </titleInfo>
+    <name type="personal">
+        <namePart type="family"><!-- Artist's last name --></namePart>
+        <namePart type="given"><!-- Artist's first/middle names --></namePart>
+    </name>
+    <name type="corporate"><!-- Collective name --></name>
+    <typeOfResource>still image</typeOfResource>
+    <originInfo>
+        <dateIssued><!-- Display date --></dateIssued>
+        <dateOther type="early"><!-- Early date --></dateOther>
+        <dateOther type="late"><!-- Late date --></dateOther>
+    </originInfo>
+    <physicalDescription>
+        <internetMediaType>image/jpeg</internetMediaType>
+        <digitalOrigin>reformatted digital</digitalOrigin>
+        <form><!-- Medium Description --></form>
+        <extent> <!-- Dimension information --></extent>
+    </physicalDescription>
+    <subject>
+        <topic><!-- Subject data --></topic>
+    </subject>
+
+    <part>
+        <text type="legacy-view"><!-- This tag with "Detail" in its contents will be used for those images that have Detail view images associated with it from the legacy database --></text>
+    </part>
+    <note type="exhibition"><!-- Exhibition name --></note>
+    <note type="location"><!-- Location info for original artwork/installation/performance--></note>
+</mods>

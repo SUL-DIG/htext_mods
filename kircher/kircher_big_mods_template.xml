@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3"
+xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <mods version="3.5">
+        <titleInfo>
+            <title>Correspondence of Athanasius Kircher</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Gorman, Michael J.</namePart>
+            <role>
+                <roleTerm type="text">project director</roleTerm>
+            </role>
+        </name>
+        <name type="personal">
+            <namePart>Wilding, Nick</namePart>
+            <role>
+                <roleTerm type="text">project director</roleTerm>
+            </role>
+        </name>
+        <typeOfResource collection="yes">mixed material</typeOfResource>
+        <part>
+            <detail type="volume">
+                <number>555</number>
+            </detail>
+        </part>
+        <typeOfResource>mixed material</typeOfResource>
+        <physicalDescription>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>584 images</extent>
+        </physicalDescription>
+        <abstract>"The Athanasius Kircher correspondence project was created with the goal of making the manuscript correspondence of Athanasius Kircher available on the Internet. The project was commenced through the collaboration of the Istituto e Museo di Storia della Scienza in Florence, the Pontifical Gregorian University in Rome and the European University Institute in Fiesole, under the direction of Michael John Gorman and Nick Wilding. Since September 2000, the digital collection has been rehoused at Stanford University." -- Introduction.</abstract>
+        <location>
+            <physicalLocation>Archives of the Pontifical Gregorian University</physicalLocation>
+            <shelfLocator>APUG 555</shelfLocator>
+        </location>
+        <!-- Begin individual entries for each title in this volume -->
+        <relatedItem type="constituent">
+            <titleInfo>
+                <title></title>
+            </titleInfo>
+            <name type="personal">
+                <namePart><!--Surname, Name--></namePart>
+                <role>
+                    <roleTerm><!--Role in document being explained (i.e. annotator)--></roleTerm>
+                </role>
+                <description><!--Occupation of person (i.e. "Jesuit (S.J.)")--></description>
+            </name>
+           <language>
+               <languageTerm type="code"><!--Language codes for languages used in this title (i.e. Latin, French)--></languageTerm><!-- Changes made at suggestion of MDU -->
+            </language>
+            <typeOfResource>mixed material</typeOfResource>
+            <genre></genre>
+            <originInfo>
+                <!-- which item in title are this date and place associated with? -->
+                <dateOther type="letter"></dateOther>
+                <place>
+                    <placeTerm></placeTerm>
+                </place>
+            </originInfo>
+            <physicalDescription>
+                <internetMediaType>image/tiff</internetMediaType>
+                <extent unit="files">##</extent>
+            </physicalDescription>
+            <part>
+                <extent unit="page">
+                    <start></start>
+                    <end></end>
+                </extent>
+            </part>
+            <abstract><!-- Comments/notes about this title --></abstract>
+            <subject>
+                <topic><!-- subjects/keywords assigned to each title --></topic>
+            </subject>
+            <!-- More items for this title that have date and place information -->
+            <relatedItem type="constituent">
+                <originInfo>
+                    <dateOther type="proclamation"></dateOther>
+                    <place>
+                    <placeTerm></placeTerm>
+                    </place>
+                </originInfo>
+            </relatedItem>
+            <relatedItem type="constituent">
+                <originInfo>
+                    <dateOther type="quoted"></dateOther>
+                    <place>
+                        <placeTerm></placeTerm>
+                    </place>
+                </originInfo>
+            </relatedItem>
+        </relatedItem>
+    </mods>
+</modsCollection>
